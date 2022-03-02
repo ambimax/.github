@@ -14,7 +14,7 @@ This PR will add/change ...
 
 <!-- The following todo list should be maintained by you. Please don't remove any bullet points, instead explain why you had to choose a different approach. -->
 
+- [ ] I have added required information to README.md
 - [ ] I have performed a self-review of my own code
-- [ ] I have referenced related tickets
-- [ ] I have updated related tickets
-- [ ] My commits contain [semantic release syntax](https://guide.ambimax.xyz/best-practices/semantic-release/#git-commits)
+- [ ] I have updated and referenced related tickets
+- [ ] My commits contain [Semantic Release syntax](https://guide.ambimax.xyz/best-practices/semantic-release/#git-commits)
